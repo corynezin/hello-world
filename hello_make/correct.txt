@@ -1,0 +1,6 @@
+hello bash
+.
+./mydir2
+./mydir2/myfile
+./mydir3
+./mydir3/myfile
